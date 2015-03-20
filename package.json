@@ -2,6 +2,7 @@
 	"name": "node-asstpl",
 	"version": "0.0.1",
 	"dependencies": {
+		"async": "*",
 		"node-regexp": "*"
 	}
 }
